@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.zeynep.e_ticaret.MainActivity">
+    <item
+        android:id="@+id/sepet"
+        android:orderInCategory="100"
+        android:title="SEPETİM"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/adresler"
+        android:orderInCategory="100"
+        android:title="ADRESLER"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ayarlar"
+        android:orderInCategory="100"
+        android:title="AYARLAR"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cikis"
+        android:orderInCategory="100"
+        android:title="ÇIKIŞ"
+        app:showAsAction="never" />
+
+
+</menu>

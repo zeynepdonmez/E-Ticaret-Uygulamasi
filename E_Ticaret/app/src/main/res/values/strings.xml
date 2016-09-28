@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E_Ticaret</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ana_kategoriler">AnaKategoriler</string>
+    <string name="title_activity_adresler">Adresler</string>
+    <string name="title_activity_listele_adres">ListeleAdres</string>
+    <string name="title_activity_altkategorilistele">altkategorilistele</string>
+    <string name="title_activity_urun_detay">UrunDetay</string>
+    <string name="title_activity_urun_siparis">urunSiparis</string>
+    <string name="title_activity_siparislerim">siparislerim</string>
+    <string name="SEPETİM">sepet</string>
+    <string name="adresler">ADRESLER</string>
+    <string name="ayarlar">AYARLAR</string>
+    <string name="cikis">ÇIKIŞ</string>
+
+    <string name="title_activity_sepetimdekiler">Sepetim</string>
+</resources>
